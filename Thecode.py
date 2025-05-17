@@ -24,3 +24,4 @@ df["Risco"] = df.apply(prever_risco, axis=1)
 df.to_csv("pontes_com_risco.csv", index=False)
 
 print("Análise concluída! Dados prontos para visualização no ArcGIS.")
+
