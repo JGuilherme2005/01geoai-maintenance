@@ -1,4 +1,4 @@
-import pandas as pd
+
 
 # Simula leitura de dados dos sensores de pontes
 df = pd.read_csv("pontes.csv")
