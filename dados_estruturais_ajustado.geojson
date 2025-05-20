@@ -1,0 +1,281 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -23.505,
+        "longitude": -46.605,
+        "vibracao": 2.64,
+        "temperatura": 24.5,
+        "trafego": 4905,
+        "status": "verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.605,
+          -23.505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -23.506999999999998,
+        "longitude": -46.6025,
+        "vibracao": 9.39,
+        "temperatura": 52.4,
+        "trafego": 14409,
+        "status": "vermelho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6025,
+          -23.506999999999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -23.509,
+        "longitude": -46.599999999999994,
+        "vibracao": 4.59,
+        "temperatura": 35.8,
+        "trafego": 7962,
+        "status": "amarelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.599999999999994,
+          -23.509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -23.511,
+        "longitude": -46.5975,
+        "vibracao": 9.59,
+        "temperatura": 48.1,
+        "trafego": 11296,
+        "status": "vermelho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5975,
+          -23.511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -23.512999999999998,
+        "longitude": -46.595,
+        "vibracao": 3.88,
+        "temperatura": 41.0,
+        "trafego": 5719,
+        "status": "amarelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.595,
+          -23.512999999999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -23.515,
+        "longitude": -46.592499999999994,
+        "vibracao": 5.95,
+        "temperatura": 43.7,
+        "trafego": 6602,
+        "status": "amarelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.592499999999994,
+          -23.515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -23.517,
+        "longitude": -46.589999999999996,
+        "vibracao": 4.2,
+        "temperatura": 42.1,
+        "trafego": 6239,
+        "status": "amarelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.589999999999996,
+          -23.517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -23.519,
+        "longitude": -46.5875,
+        "vibracao": 6.75,
+        "temperatura": 36.2,
+        "trafego": 5233,
+        "status": "amarelo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5875,
+          -23.519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -23.520999999999997,
+        "longitude": -46.584999999999994,
+        "vibracao": 1.87,
+        "temperatura": 22.1,
+        "trafego": 4547,
+        "status": "verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.584999999999994,
+          -23.520999999999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -23.523,
+        "longitude": -46.582499999999996,
+        "vibracao": 8.53,
+        "temperatura": 53.8,
+        "trafego": 11851,
+        "status": "vermelho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.582499999999996,
+          -23.523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -23.525,
+        "longitude": -46.58,
+        "vibracao": 9.49,
+        "temperatura": 48.2,
+        "trafego": 14269,
+        "status": "vermelho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.58,
+          -23.525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -23.526999999999997,
+        "longitude": -46.57749999999999,
+        "vibracao": 7.29,
+        "temperatura": 51.9,
+        "trafego": 13421,
+        "status": "vermelho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.57749999999999,
+          -23.526999999999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -23.529,
+        "longitude": -46.574999999999996,
+        "vibracao": 8.15,
+        "temperatura": 54.9,
+        "trafego": 9888,
+        "status": "vermelho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.574999999999996,
+          -23.529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -23.531,
+        "longitude": -46.5725,
+        "vibracao": 2.11,
+        "temperatura": 28.3,
+        "trafego": 4667,
+        "status": "verde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.5725,
+          -23.531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "latitude": -23.532999999999998,
+        "longitude": -46.57,
+        "vibracao": 9.47,
+        "temperatura": 52.5,
+        "trafego": 14172,
+        "status": "vermelho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.57,
+          -23.532999999999998
+        ]
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4326"
+    }
+  }
+}
